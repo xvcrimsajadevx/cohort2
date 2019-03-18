@@ -1,7 +1,7 @@
 /*
 line 2
 line 2.5
-line 3 'changed' 'in temp repository'
+line 3 'in temp repository'
 line 4
 line 5
 line 6
