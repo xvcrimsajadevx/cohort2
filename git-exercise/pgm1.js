@@ -1,7 +1,6 @@
 /*
 line 2
 line 2.5
-<<<<<<< HEAD
 line 3 a merge of the two
 line 4
 line 5
