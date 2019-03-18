@@ -1,7 +1,8 @@
 /*
 line 2
 line 2.5
-line 3 'in temp repository'
+<<<<<<< HEAD
+line 3 a merge of the two
 line 4
 line 5
 line 6
